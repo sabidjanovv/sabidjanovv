@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
 
 <p align="center">
-  <b>Node.js</b> & <b>React.js</b> mutaxassisi, scalable web ilovalar va RESTful API lar yaratishda tajribam bor.
+  A passionate Full Stack Developer specializing in <b>Node.js</b> & <b>React.js</b>, with experience in building scalable web applications and RESTful APIs.
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m a **Full Stack Developer** specializing in **Node.js**, **React.js**, and building scalable web applications
-- 🚀 Worked on projects using:
+- 🔭 I’m a **Full Stack Developer** skilled in **Node.js**, **React.js**, and building modern, scalable web solutions
+- 🚀 Technologies I've worked with:
   - **NestJS**, **ExpressJS**, **MongoDB**, **PostgreSQL**, **MySQL**
   - **TypeScript**, **TypeORM**, **REST API**, **GraphQL**
-  - **Authentication**, **Real-time data**, **DDD Architecture**
-- 🧪 Experience in testing, **Docker**, **PM2**, **CI/CD**, **Nginx**, **Linux**
-- 🛠 Tools & Practices: **Git**, **Swagger**, **Postman**, **OOP**, **SOLID Principles**
-- 💬 Frontend: **React.js**, **Redux Toolkit**, **React Query**, **Vite**
-- 🤖 Others: **Telegram Bots**, **ODM/ORM**, **Clean Code**
+  - **Authentication**, **Real-time Data**, **DDD Architecture**
+- 🧪 Experienced in testing, **Docker**, **PM2**, **CI/CD**, **Nginx**, **Linux**
+- 🛠 Tools & Best Practices: **Git**, **Swagger**, **Postman**, **OOP**, **SOLID Principles**
+- 💬 Frontend Experience: **React.js**, **Redux Toolkit**, **React Query**, **Vite**
+- 🤖 Other Skills: **Telegram Bots**, **ORM/ODM**, **Clean Code**
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 #### 🚀 Backend
 <p>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-#### 📦 APIs & Docs
+#### 📦 APIs & Documentation
 <p>
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -68,8 +68,6 @@
 
 ### 🎓 Education
 
-> Siz bu yerga o‘zingiz o‘qigan universitet / kurs / bootcamp nomini qo‘shing, masalan:
-
 **Bachelor's Degree in Computer Science – Tashkent University of Information Technologies**  
 _or_  
 **Full Stack Web Development Bootcamp – Najot Ta'lim**
@@ -78,7 +76,6 @@ _or_
 
 ### 📫 Contact Me
 
-- GitHub: [github.com/yourusername](https://github.com/sabidjanovv)
-- Telegram: [@yourtelegram](https://t.me/sabidjanov_dev)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sardor-sobidjonov-7a9329303/)
-
+- GitHub: [github.com/sabidjanovv](https://github.com/sabidjanovv)
+- Telegram: [@sabidjanov_dev](https://t.me/sabidjanov_dev)
+- LinkedIn: [linkedin.com/in/sardor-sobidjonov-7a9329303](https://linkedin.com/in/sardor-sobidjonov-7a9329303/)
