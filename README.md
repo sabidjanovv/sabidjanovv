@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
 
-<!--
-**sabidjanovv/sabidjanovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Node.js</b> & <b>React.js</b> mutaxassisi, scalable web ilovalar va RESTful API lar yaratishda tajribam bor.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🔭 I’m a **Full Stack Developer** specializing in **Node.js**, **React.js**, and building scalable web applications
+- 🚀 Worked on projects using:
+  - **NestJS**, **ExpressJS**, **MongoDB**, **PostgreSQL**, **MySQL**
+  - **TypeScript**, **TypeORM**, **REST API**, **GraphQL**
+  - **Authentication**, **Real-time data**, **DDD Architecture**
+- 🧪 Experience in testing, **Docker**, **PM2**, **CI/CD**, **Nginx**, **Linux**
+- 🛠 Tools & Practices: **Git**, **Swagger**, **Postman**, **OOP**, **SOLID Principles**
+- 💬 Frontend: **React.js**, **Redux Toolkit**, **React Query**, **Vite**
+- 🤖 Others: **Telegram Bots**, **ODM/ORM**, **Clean Code**
+
+---
+
+### 🛠️ My Tech Stack
+
+#### 🚀 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+#### 🧩 Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-CB0000?style=for-the-badge&logo=data&logoColor=white" />
+</p>
+
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+#### 🧰 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+#### 📦 APIs & Docs
+<p>
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 🎓 Education
+
+> Siz bu yerga o‘zingiz o‘qigan universitet / kurs / bootcamp nomini qo‘shing, masalan:
+
+**Bachelor's Degree in Computer Science – Tashkent University of Information Technologies**  
+_or_  
+**Full Stack Web Development Bootcamp – Najot Ta'lim**
+
+---
+
+### 📫 Contact Me
+
+- GitHub: [github.com/yourusername](https://github.com/sabidjanovv)
+- Telegram: [@yourtelegram](https://t.me/sabidjanov_dev)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sardor-sobidjonov-7a9329303/)
+
